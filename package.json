@@ -1,0 +1,12 @@
+{
+  "name": "json-server-api",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "json-server": "^0.17.3"
+  },
+  "scripts": {
+    "start": "json-server --watch db.json --host 0.0.0.0 --port $PORT",
+    "build": "echo 'No build required for JSON Server'"
+  }
+}

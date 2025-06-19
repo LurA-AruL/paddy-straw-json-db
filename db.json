@@ -1,0 +1,63 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "username": "admin",
+      "password": "123456"
+    }
+  ],
+  "straws": [
+    {
+      "id": "d690",
+      "tripNo": "1",
+      "totalStraw": "50",
+      "buyerName": "ramalingam",
+      "sellerName": "gowshalla",
+      "buyingPrice": "20",
+      "sellingPrice": "1000",
+      "sellerAddress": "dee",
+      "labourCharge": "25",
+      "tipAmount": "500",
+      "date": "2025-06-19"
+    },
+    {
+      "id": "6753",
+      "tripNo": "2",
+      "totalStraw": "100",
+      "buyerName": "ramalingam",
+      "sellerName": "gowshalla",
+      "buyingPrice": "20",
+      "sellingPrice": "100",
+      "sellerAddress": "rddd",
+      "labourCharge": "25",
+      "tipAmount": "500",
+      "date": "2025-06-19"
+    },
+    {
+      "id": "7d8e",
+      "tripNo": "3",
+      "totalStraw": "500",
+      "buyerName": "ramalingam",
+      "sellerName": "pondyGowshall",
+      "buyingPrice": "20",
+      "sellingPrice": "50",
+      "sellerAddress": "xx",
+      "labourCharge": "10",
+      "tipAmount": "20",
+      "date": "2025-06-19"
+    },
+    {
+      "id": "ae45",
+      "tripNo": "4",
+      "totalStraw": "50",
+      "buyerName": "arul",
+      "sellerName": "gowshalla",
+      "buyingPrice": "20",
+      "sellingPrice": "60",
+      "sellerAddress": "reddicahvari",
+      "labourCharge": "25",
+      "tipAmount": "500",
+      "date": "2025-06-19"
+    }
+  ]
+}
